@@ -1,8 +1,8 @@
 import os
 
-repo = '2013-shangdaxue'
-path = 'imgs/chongqing'
-prefix = '![](https://cdn.jsdelivr.net/gh/xieqiaokang/' + repo + '@master/'
+repo = '2020-guoqing'
+path = '201007'
+prefix = '![](https://cdn.jsdelivr.net/gh/xieqiaokang/' + repo + '@1.0/'
 final_str = '<photos>'
 
 img_list = os.listdir(path)
